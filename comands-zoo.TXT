@@ -1,0 +1,17 @@
+Comands 'Zoo-msk' (C5).
+=============================================================
+pip install python-telegram-bot
+pip install --upgrade python-telegram-bot
+========================================
+Для GIT:
+1. create git Repository
+2. manage remotes
+3. https://github.com/Alex763777/Bot_ZOO_MSK.git
+=================================
+для пакетов:
+pip freeze > Packages.txt
+pip uninstall -r Packages.txt
+pip install -r Packages.txt
+------------------------------
+pip install python-dotenv
+==============================================================
